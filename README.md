@@ -16,7 +16,7 @@ The positive/negative review analyzer was what first came to mind when brainstor
 
 Sample Markov Text Synthesis: "All this time, Sir Matthew Pupker and the two other real members of Parliament are positively coming. A lady in deep mourning rose as Mr. Ralph Nickleby shrugged his shoulders, and said things were better as they were. There is that in the river too."
 
-![img1](https://i.imgur.com/2SyAyA2.png | width=100)
+![img1](https://i.imgur.com/2SyAyA2.png)
 ![img2](https://i.imgur.com/W1yVeyD.png)
 ![img3](https://i.imgur.com/is4SKf4.png)
 
