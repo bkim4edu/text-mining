@@ -16,9 +16,10 @@ The positive/negative review analyzer was what first came to mind when brainstor
 
 Sample Markov Text Synthesis: "All this time, Sir Matthew Pupker and the two other real members of Parliament are positively coming. A lady in deep mourning rose as Mr. Ralph Nickleby shrugged his shoulders, and said things were better as they were. There is that in the river too."
 
+## Reflection
+Overall, I’m satisfied with my work on this assignment. I felt I was falling behind on the more recent material of lists, dictionaries, tuples, etc. Although I’m still not confident on the material, I felt like this assignment has helped a lot in catching back up to some extent. I feel like my assignment was appropriately scoped, but that I just didn’t give myself enough time to work on it. Especially with the IMDB positive/negative review portion, I made enough progress early on that I was confident it would be the easy portion of my assignment and moved on to working on other portions of the assignment. With this write-up portion too, I wish I had left myself enough time to go more in-depth rather than scramble to get something together before the deadline. 
+
+## Images
 ![img1](https://i.imgur.com/2SyAyA2.png)
 ![img2](https://i.imgur.com/W1yVeyD.png)
 ![img3](https://i.imgur.com/is4SKf4.png)
-
-## Reflection
-Overall, I’m satisfied with my work on this assignment. I felt I was falling behind on the more recent material of lists, dictionaries, tuples, etc. Although I’m still not confident on the material, I felt like this assignment has helped a lot in catching back up to some extent. I feel like my assignment was appropriately scoped, but that I just didn’t give myself enough time to work on it. Especially with the IMDB positive/negative review portion, I made enough progress early on that I was confident it would be the easy portion of my assignment and moved on to working on other portions of the assignment. With this write-up portion too, I wish I had left myself enough time to go more in-depth rather than scramble to get something together before the deadline. 
